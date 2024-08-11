@@ -1,0 +1,8 @@
+../App/hw/device/mobileRemoteCar.c:34:6:MRC_init	24	static
+../App/hw/device/mobileRemoteCar.c:78:6:MRC_drive	24	static
+../App/hw/device/mobileRemoteCar.c:112:6:MRC_emergencyBrakeAllMotors	8	static
+../App/hw/device/mobileRemoteCar.c:118:6:MRC_motorDrive	16	static
+../App/hw/device/mobileRemoteCar.c:133:10:MRC_getFrontRightMotorDuty	4	static
+../App/hw/device/mobileRemoteCar.c:137:10:MRC_getFrontLeftMotorDuty	4	static
+../App/hw/device/mobileRemoteCar.c:141:10:MRC_getBackMotorDuty	4	static
+../App/hw/device/mobileRemoteCar.c:145:9:MRC_getDistance	8	static

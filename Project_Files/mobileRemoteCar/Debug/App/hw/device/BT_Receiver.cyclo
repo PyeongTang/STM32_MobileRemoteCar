@@ -1,0 +1,4 @@
+../App/hw/device/BT_Receiver.c:14:6:MRC_BT_init	1
+../App/hw/device/BT_Receiver.c:19:6:HAL_UART_RxCpltCallback	2
+../App/hw/device/BT_Receiver.c:28:10:MRC_BT_getHandleValue	1
+../App/hw/device/BT_Receiver.c:32:10:MRC_BT_getAccelValue	1

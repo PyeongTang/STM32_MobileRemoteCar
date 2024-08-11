@@ -1,0 +1,4 @@
+../App/hw/device/dcMotor.c:11:6:DCMOTOR_init	1
+../App/hw/device/dcMotor.c:27:6:DCMOTOR_setDirection	3
+../App/hw/device/dcMotor.c:48:6:DCMOTOR_emergencyBrake	1
+../App/hw/device/dcMotor.c:58:6:DCMOTOR_setDuty	4

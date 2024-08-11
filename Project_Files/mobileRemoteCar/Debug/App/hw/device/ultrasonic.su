@@ -1,0 +1,4 @@
+../App/hw/device/ultrasonic.c:17:6:ULTRA_init	8	static
+../App/hw/device/ultrasonic.c:31:6:HAL_TIM_IC_CaptureCallback	16	static
+../App/hw/device/ultrasonic.c:55:6:HAL_TIM_OC_DelayElapsedCallback	16	static
+../App/hw/device/ultrasonic.c:63:9:ULTRA_getDistance	4	static
